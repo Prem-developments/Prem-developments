@@ -7,19 +7,12 @@ I'm passionate about building AI-powered automation systems that save time and s
  👨‍💻 What I Do
 
  🤖 AI Workflow Automation (n8n, Make.com, Zapier)
- 
  📞 AI Voice Agents (Retell AI)
- 
  🔗 REST APIs & Webhooks
- 
  💼 CRM Automation (GoHighLevel, HubSpot, Airtable)
- 
  🗄️ Databases (Supabase, Google Sheets)
- 
  🧠 OpenAI, Claude & Gemini API Integrations
- 
  📊 Lead Generation & Outreach Automation
- 
 
 🌱 Currently Learning
 
